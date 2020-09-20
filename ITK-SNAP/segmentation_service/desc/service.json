@@ -1,0 +1,19 @@
+{
+  "name": "SegmentationCall",
+  "version": "0.1.0",
+  "keywords": [
+    "segmentation",
+    "example"
+  ],
+  "author": "Piotr Zakowski",
+  "shortdesc": "DSS tutorial service (segmentation)",
+  "longdesc": "Given a source image, perform segmentation on external service",
+  "tags": [
+    {
+      "name": "Source",
+      "type": "MainImage",
+      "hint": "Source image meant to be segmented",
+      "required": true
+    }
+  ]
+}
